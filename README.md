@@ -1,6 +1,7 @@
 # [Kaggle] Digit Recognizer
 
-[Competition URL](https://www.kaggle.com/competitions/digit-recognizer)
+- [Competition URL](https://www.kaggle.com/competitions/digit-recognizer)
+- [My Kaggle Notebook](https://www.kaggle.com/hanelliotn/digit-recognizer)
 
 ## Development Status
 `COMPLETED`
