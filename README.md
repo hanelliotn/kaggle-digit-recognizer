@@ -3,6 +3,10 @@
 - [Competition URL](https://www.kaggle.com/competitions/digit-recognizer)
 - [My Kaggle Notebook](https://www.kaggle.com/hanelliotn/digit-recognizer)
 
+## Author
+- Name: Han-Elliot Nguyen
+- Email: hanelliotn@gmail.com
+
 ## Development Status
 `COMPLETED`
 
@@ -13,5 +17,8 @@ Accuracy: 98.45%
 
 Training model: Covolutional Neural Networks with 3 hidden layers
 
-## Last update
-*2023-06-29, 1:57:32 GMT*
+## Timeline
+- Start Date: June 22, 2023
+- End Date: June 28, 2023
+
+*Last update: 2023-06-29, 1:57:32 GMT*
