@@ -4,8 +4,8 @@
 - [My Kaggle Notebook](https://www.kaggle.com/hanelliotn/digit-recognizer)
 
 ## Author
-- Name: Han-Elliot Nguyen
-- Email: hanelliotn@gmail.com
+- Name: Han-Elliot Phan
+- Email: hanelliotphan@gmail.com
 
 ## Development Status
 `COMPLETED`
